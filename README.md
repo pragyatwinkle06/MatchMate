@@ -36,3 +36,14 @@ and on the basis of user action list is being sorted ( Accepted come on top and 
   <li><b>View:</b> Responsible for the layout and display of the UI.</li>
   <li><b>ViewModel:</b> Acts as a mediator between the Model and View, handling data binding and business logic execution.</li>
 </ul>
+
+
+<h2>Screenshots</h2>
+<p>Below are some screenshots of the MatchMate app:</p>
+<div style="display: flex; gap: 10px;">
+  <img src="detailView.png" alt="Detail View Match" width="300">
+<img src="listView.png" alt="List View Match" width="300">
+</div>
+
+
+
